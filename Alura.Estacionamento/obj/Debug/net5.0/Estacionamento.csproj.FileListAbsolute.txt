@@ -1,0 +1,16 @@
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.exe
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.deps.json
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.json
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.runtimeconfig.dev.json
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.dll
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\ref\Estacionamento.dll
+C:\dev\Estacionamento\Alura.Estacionamento\bin\Debug\net5.0\Estacionamento.pdb
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.AssemblyReference.cache
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfoInputs.cache
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.AssemblyInfo.cs
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.dll
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\ref\Estacionamento.dll
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.pdb
+C:\dev\Estacionamento\Alura.Estacionamento\obj\Debug\net5.0\Estacionamento.genruntimeconfig.cache
